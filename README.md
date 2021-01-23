@@ -1,2 +1,2 @@
-# world-trends
-EDA Capstone 1
+# Table of Contents
+
